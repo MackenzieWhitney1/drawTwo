@@ -34,7 +34,7 @@ def single_trial(show_calculations):
 
 
 """ This outputs 16, on average, for number_of_trials large. (like 1 million)
-I call this naive because this doesn't prove +16 is the target."""
+I call this naive because this doesn't prove +16 is a good target or the most common positive running total"""
 
 
 def naive_averages_test(number_of_trials):
